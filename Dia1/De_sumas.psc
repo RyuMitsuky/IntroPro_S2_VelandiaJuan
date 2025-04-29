@@ -2,7 +2,7 @@ Algoritmo De_sumas
 	
 	Definir num1, num2, suma Como Entero
 	
-	Escribir 'Introduce el primer número (de dos dígitos): '
+	Escribir 'Introduce el primer número (de dossss dígitos): '
 	
 	Leer num1
 	
