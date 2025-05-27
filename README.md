@@ -6,7 +6,7 @@ En esta documentacion, se abarcara el progreso introductorio con Pseint, en dond
 
 | Indice | Titulo |
 |--------|--------|
-| 1 | | Dia 1
+| 1 | Dia 1
 | 2 | Dia 2
 | 3 | Dia 3 
 | 4 | Dia 4
