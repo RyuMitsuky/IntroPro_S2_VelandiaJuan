@@ -1,12 +1,12 @@
-# Introduccion a la programaccion Psenit y Python 
+# Introduccion a la programaccion Psenit 
 
-En esta documentacion, se abarcara el progreso introductorio con Pseint y Python, en donde se se muestra diferentes problematicas cotidianas plasmadas en el hambito programatico, e aqui la tabla de contenidos 
+En esta documentacion, se abarcara el progreso introductorio con Pseint, en donde se se muestra diferentes problematicas cotidianas plasmadas en el hambito programatico, e aqui la tabla de contenidos 
 
 ## Tabla de contenidos
 
 | Indice | Titulo |
 |--------|--------|
-| 1 | | Dia 1 
+| 1 | | Dia 1
 | 2 | Dia 2
 | 3 | Dia 3 
 | 4 | Dia 4
